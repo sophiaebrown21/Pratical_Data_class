@@ -76,7 +76,7 @@ ggbetweenstats(data = SCL_data,
                outlier.label.args = list(color = "red"), ## label color
                outlier.coef = 1.5,## coefficient for Tukey's rule 			
                ggtheme = ggplot2::theme_gray(), ## a different theme 
-               package = "yarrr", ## package from which color palette 	p
+               package = "yarrr", ## package from which color palette
                palette = "info2", ## choosing a different color palette 	
                title = "FP Incidence based on Straight Carapace Length (SCL)", 
                xlab = "Presence of FP",
@@ -111,8 +111,9 @@ ggbetweenstats(data = SCL_data,
                outlier.tagging = TRUE,
                outlier.label = EID,
                outlier.label.args = list(color = "red"), ## label color
-               outlier.coef = 1.5,## coefficient for Tukey's rule 			ggtheme = ggplot2::theme_gray(), ## a different theme 
-               package = "yarrr", ## package from which color palette 	p
+               outlier.coef = 1.5,## coefficient for Tukey's rule 			
+               ggtheme = ggplot2::theme_gray(), ## a different theme 
+               package = "yarrr", ## package from which color palette 	
                palette = "info2", ## choosing a different color palette 	
                title = "FP Incidence based on Season", 
                xlab = "Season",
@@ -209,7 +210,8 @@ ggbetweenstats(data = algae_data,
                outlier.tagging = TRUE,
                outlier.label = Algae_sp,
                outlier.label.args = list(color = "red"), ## label color
-               outlier.coef = 1.5,## coefficient for Tukey's rule 			ggtheme = ggplot2::theme_gray(), ## a different theme 
+               outlier.coef = 1.5,## coefficient for Tukey's rule 			
+               ggtheme = ggplot2::theme_gray(), ## a different theme 
                package = "yarrr", ## package from which color palette 	p
                palette = "info2", ## choosing a different color palette 	
                title = "Arginine levels based on nutrient load", 
@@ -220,7 +222,7 @@ ggbetweenstats(data = algae_data,
 p3 <- ggplot(algae_data, aes(x=Location_type, y=Algae_Arg_N_per_dry, fill=Location_type)) + 
   geom_violin(trim=FALSE)+
   geom_boxplot(color="black", fill=NA)+
-  scale_fill_brewer(palette = "Set2")+
+  scale_fill_manual(values= c("purple", "orange"))+
   labs(
     title = "Arginine levels based on nutrient load", 
     x = "Nutrient level",
