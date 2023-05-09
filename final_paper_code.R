@@ -226,7 +226,7 @@ p3 <- ggplot(algae_data, aes(x=Location_type, y=Algae_Arg_N_per_dry, fill=Locati
   labs(
     title = "Arginine levels based on nutrient load", 
     x = "Nutrient level",
-    y = "%Arginine"
+    y = "% Arginine per dry mass "
   )
 
 p3
