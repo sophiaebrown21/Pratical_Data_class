@@ -1,0 +1,26 @@
+﻿Algae_class,Algae_sp,Invasive_algae,Sample_island ,Sample_location,Location_type,Algae_Arg_per_dry,Algae_Arg_N_per_dry,Algae_energy,45_kg_diet,45_kg_arg,100_kg_diet,100_kg_arg
+Rhodophyta,H_musciformis,yes,Maui,Kihei,eutrophic,1.737,0.556,4.297,566.7,9.85,1248.3,21.69
+Rhodophyta,H_musciformis,yes,Maui,Kanaha,eutrophic,2.241,0.717,4.297,566.7,12.7,1248.3,27.98
+Rhodophyta,H_musciformis,yes,Oahu,Laniakea,eutrophic,1.879,0.601,4.297,566.7,10.65,1248.3,23.46
+Rhodophyta,H_musciformis,yes,Oahu,Pupukea,oligotrophic,1.195,0.382,4.297,566.7,6.77,1248.3,14.92
+Rhodophyta,H_musciformis,yes,Maui,Olowalu,oligotrophic,0.816,0.261,4.297,566.7,4.62,1248.3,10.19
+Rhodophyta,H_musciformis,yes,Oahu,Kaena,oligotrophic,0.378,0.121,4.297,566.7,2.14,1248.3,4.72
+Chlorophyta,U_lactuca,yes,Maui,Kihei,eutrophic,1.189,0.381,7.681,317,3.77,698.3,8.31
+Chlorophyta,U_lactuca,yes,Maui,Maaleaa,eutrophic,1.266,0.405,7.681,317,4.01,698.3,8.84
+Chlorophyta,U_lactuca,yes,Oahu,Papailoa,eutrophic,0.744,0.238,7.681,317,2.36,698.3,5.19
+Chlorophyta,U_lactuca,yes,Maui,Kanaha,eutrophic,0.633,0.203,7.681,317,2.01,698.3,4.42
+Chlorophyta,U_lactuca,yes,Oahu,Pupukea,oligotrophic,0.671,0.215,7.681,317,2.13,698.3,4.69
+Chlorophyta,U_lactuca,yes,Oahu,Kaena,oligotrophic,0.361,0.115,7.681,317,1.14,698.3,2.52
+Chlorophyta,U_lactuca,yes,Maui,Olowalu,oligotrophic,0.084,0.027,7.681,317,0.27,698.3,0.59
+Rhodophyta,A_spicifera,yes,Maui,Kanaha,eutrophic,1.155,0.37,4.977,489.3,5.65,1077.8,12.45
+Rhodophyta,A_spicifera,yes,Maui,Kihei,eutrophic,1.104,0.353,4.977,489.3,5.4,1077.8,11.9
+Rhodophyta,A_spicifera,yes,Oahu,Ewa,eutrophic,0.615,0.197,4.977,489.3,3.01,1077.8,6.63
+Rhodophyta,A_spicifera,yes,Oahu,Pupukea,oligotrophic,0.404,0.129,4.977,489.3,0.198,1077.8,4.36
+Rhodophyta,A_spicifera,yes,Maui,Olowalu,oligotrophic,0.341,0.109,4.977,489.3,1.67,1077.8,3.67
+Rhodophyta,A_spicifera,yes,Oahu,Kaena,oligotrophic,0.122,0.039,4.977,489.3,0.6,1077.8,1.32
+Rhodophyta,P_capilacea,no,Maui,Kihei,eutrophic,0.88,0.282,12.686,192,1.69,422.8,3.72
+Rhodophyta,P_capilacea,no,Maui,Kapalua,eutrophic,0.747,0.239,12.686,192,1.43,422.8,3.16
+Rhodophyta,A_glomerata,no,Maui,Kanaha,eutrophic,0.56,0.179,5.084,479,2.68,1055.1,5.91
+Rhodophyta,P_capilacea,no,Hawaii,Punaluu,oligotrophic,0.462,0.148,12.686,192,0.89,422.8,1.95
+Rhodophyta,A_glomerata,no,Hawaii,Leleiwi,oligotrophic,0.412,0.132,5.084,479,1.97,1055.1,4.35
+Rhodophyta,A_glomerata,no,Maui,Olowalu,oligotrophic,0.424,0.136,5.084,479,2.03,1055.1,4.48
